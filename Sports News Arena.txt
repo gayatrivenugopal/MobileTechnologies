@@ -1,0 +1,7 @@
+Project name: Sports News Arena
+
+Project description in detail: 
+The app will be a one-stop place for sports fans! It will take RSS feeds from the top news channels and websites and show all information in one place. It will also provide customisation features so users can make the app according to their likes. 
+
+Student name/s (Maximum 2): Saloni Sikdar, Ruchi Dhawan
+Student PRN/s: 12030121070, 12030121014
