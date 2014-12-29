@@ -1,0 +1,7 @@
+Project name: Bball-love
+
+Project description in detail: 
+App to give information about basketball to people. Includes rules and game tips,linked videos and tutorials, NBA related information, courts in Pune and coaching classes in Pune with tournament names. Additional feedback and quiz features to check your knowledge.
+
+Student name/s (Maximum 2): Saloni Sikdar, Ruchi Dhawan
+Student PRN/s: 12030121070, 12030121014
