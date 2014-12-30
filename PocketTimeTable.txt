@@ -1,0 +1,4 @@
+  Project name: PocketTimeTable
+  Project description in detail: create, update timetable - send notification/updates - customize timetable    
+  Student name:Samiya Parvez
+  Student PRN:12030121060
