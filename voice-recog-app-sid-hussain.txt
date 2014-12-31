@@ -1,0 +1,23 @@
+Project Name : 
+An Android app that recognizes voice and does a particular job. Name of the app not decided yet.
+
+Project description in detail:
+- The phone rings on hearing a particular keyword 
+- Emergency contact that is set would get an sms/call as preferred on listening a particular keyword
+- Incoming call can be accepted, Rejected or Ignored by just speaking out the keywords.
+- Start and stop voice recording upon listening a particular keyword
+- On listening strings like 'Call <NAME>' the string will be passed to Google Now so that google now features are accessible from any screen and even when the screen is turned off.
+
+Settings Features:
+- Can set the mic on for the below mentioned conditions :
+       - When screen off
+       - always
+       - for a particular timing
+       - manual toggle (on/off)
+- Ringtone can be set for when ringing phone on hearing keyword
+
+--More features will be added as and when feasible
+
+Students :
+- Siddharth Bhatt (12030121003)
+- Hussain Kadanawala (12030121040)
