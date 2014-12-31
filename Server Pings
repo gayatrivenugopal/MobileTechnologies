@@ -1,0 +1,7 @@
+   Project name: Server Pings
+   Project description in detail: An App to check the pings to various online game servers. Select the game, location
+   (can be detected by gps tracking) and the server you want to ping. The app will constantly ping the server giving you 
+   information about the ping time and packet loss. You can use this to decide which server to use to get best experience. 
+   You can also use it to detect any spikes in connection while you play. 
+   Student name/s (Maximum 2): Ninad Gaikwad, Sohil Singh
+   Student PRN/s: 12030121037, 12030121044
