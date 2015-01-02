@@ -1,0 +1,8 @@
+							Insta Downloader
+							~~~~~~~~~~~~~~~~
+
+It allows a user to download pictures & videos posted on Instagram. You can only download pictures/videos of people who you follow, if you cannot see their stuffs then you cannot download it.
+The user of this app has to login with his Instagram User ID & Password, it acts as a tunnel to original Instagram, once you click download button on a picture/video this app fetches url of the picture/video & downloads it.
+
+Mohd Aquib Ansari(12030121017)
+Viren Rao(12030121013) 
