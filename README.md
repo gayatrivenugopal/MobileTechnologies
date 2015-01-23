@@ -1,6 +1,6 @@
-MobileTechnologies
-Project Name- Mobile Application for SCHC
-Project Description- this app will help SCHC to carry out their daily fucntionalities such as schedule check-ups,issue medical certificate etc.
-Project Member- Vikram Devda(12030121001)
+Project Name- Pic Locater
+
+Project Description- this app wil help the user to search their photographs in the gallery or folders according to different criteria like-water,greenery,flowers, or with whom they have clicked the photo.
+
+Project Group - Vikram Devda(12030121001)
                 Sarvesh Kumar(12030121065)
-==================
