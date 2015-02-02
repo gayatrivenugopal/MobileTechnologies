@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.EditText;
 import android.widget.RatingBar;
 
-public class Feedback extends Activity {
+public class Feedback  {
 	
 	
 	
@@ -26,7 +26,6 @@ public class Feedback extends Activity {
 		age = (EditText) findViewById(R.id.age);
 		phno = (EditText) findViewById(R.id.phno);
 		feedbackbox = (EditText) findViewById(R.id.feedbackbox);
-		ratingbar1 = (RatingBar) findViewById(R.id.ratingbar1);
 		String un= getIntent().getExtras().getString("username");
 		name.setText(un);
 		
