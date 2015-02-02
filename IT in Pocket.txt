@@ -1,0 +1,12 @@
+Project name- IT in Pocket
+Description-It is an app which will provide information about computer and computer related things,
+            and also gives freedom to the user to customize(i.e.editing) the info provided in the app.
+            User will be able to access the app off-line.
+			A quiz based on the info will be available to the user.
+            The user can comment on the info and can share it on social networking site.(optional)
+			
+
+
+Student name:Madhura Borwankar(12030121010)
+             Avantika Dixit(12030121018)
+ 
